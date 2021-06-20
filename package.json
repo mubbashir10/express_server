@@ -1,0 +1,11 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "A sample express based server to be used as a callback/webhook",
+  "main": "index.js",
+  "author": "mubbashir",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
